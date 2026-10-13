@@ -1,22 +1,15 @@
-![icon](https://cdn.fryrvo.com/assets/fryrvo_branding/Logo_bg.png)
-<!-- <p align="center">
-  <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/Fosh.png" alt="cath"/>
-</p> -->
+<p>
+  <a href="https://fryrvo.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/Logo_bg.png" alt="logo">
+  </a>
+</p>
 
-<!-- <p align="center">
-  <img src="https://cdn.fryrvo.com/assets/fryrvo_branding/cath_things2.png" alt="cath"/>
-</p> -->
 ## Hi There 
-
 Hi thank for passing by for what ever reason you are here But hey your are here and that is only tings that matter.
-
-[![badge](https://cdn.fryrvo.com/badge/transright.svg)](https://www.hrc.org)
-[![GitHub](https://cdn.fryrvo.com/badge/github.svg?v=2)](https://github.com/Fryrvo)
-[![GitLab](https://cdn.fryrvo.com/badge/gitlab.svg?v=2)](https://gitlab.com/Fryrvo)
-[![Codeberg](https://cdn.fryrvo.com/badge/codeberg.svg?v=2)](https://codeberg.org/Fryrvo)
-[![YouTube](https://cdn.fryrvo.com/badge/youtube.svg?v=2)](https://youtube.com/@fryrvo)
-
-<a href="https://github.com/FryrvoStudio/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FryrvoStudio/.github" />
-</a> 
-<!-- made with contrib.rocks
+<p>
+  <a href="https://www.hrc.org" target="_blank" rel="noopener noreferrer"><img src="https://cdn.fryrvo.com/badge/transright.svg" alt="Trans Right"></a>
+  <a href="https://github.com/Fryrvo" target="_blank" rel="noopener noreferrer"><img src="https://cdn.fryrvo.com/badge/github.svg?v=2" alt="GitHub"></a>
+  <a href="https://gitlab.com/Fryrvo" target="_blank" rel="noopener noreferrer"><img src="https://cdn.fryrvo.com/badge/gitlab.svg?v=2" alt="GitLab"></a>
+  <a href="https://codeberg.org/Fryrvo" target="_blank" rel="noopener noreferrer"><img src="https://cdn.fryrvo.com/badge/codeberg.svg?v=2" alt="Codeberg"></a>
+  <a href="https://youtube.com/@fryrvo" target="_blank" rel="noopener noreferrer"><img src="https://cdn.fryrvo.com/badge/youtube.svg?v=2" alt="YouTube"></a>
+</p>
